@@ -9,7 +9,7 @@ const NavBar = () => {
   return (
     <Navbar expand="lg" className="navbar-custom">
       <Container>
-        <Navbar.Brand as={Link} to="/" className="navbar-brand">LOGO</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/" className="navbar-brand">cArc.</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">

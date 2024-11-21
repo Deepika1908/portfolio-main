@@ -6,9 +6,13 @@ const Exp = () => {
   const experienceList = [
     { 
       title: 'Intern', 
-      company: 'StartUp Inc.', 
-      duration: 'Jun 2019 - Dec 2019', 
-      description: 'Worked on frontend development and UI/UX design.', 
+      company: 'SHREE LAXMI TRADING.', 
+      duration: 'July 17 – July 22 ', 
+      description:[
+        "• Generating Invoice, Keeping Accounts and Generating GST Bills. Worked as an accountant.",
+        "• Gained professional work experience and learned to put my knowledge and skill into practice.",
+        "• Learned the importance of taking feedback and good communication."
+      ],
       image: internImage 
     },
     // Add more experiences here
