@@ -26,8 +26,7 @@
   
   /* Navigation Links Container */
   .nav-links {
-    display: flex; 
-    text: bold;
+    display: flex;
     list-style: none;
     margin: 0;
     padding: 0;

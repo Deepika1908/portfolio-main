@@ -784,3 +784,44 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .footer-icons a:hover {
   color: #007bff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.skills-container {
+  display: flex;
+  justify-content: space-between; /* Ensures even spacing between columns */
+  gap: 20px; /* Adds space between each column */
+  flex-wrap: wrap; /* Allows wrapping to a new row if necessary */
+}
+
+.skill-card {
+  flex: 1;
+  max-width: 30%; /* Adjust this value to fit your design */
+  padding: 10px;
+  background-color: #111; /* Adjust as needed */
+  color: white;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

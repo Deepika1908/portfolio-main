@@ -23,6 +23,19 @@ const Skills = () => {
       description: "Familiarity with supply chain processes, quality control, and logistics.",
       // image: "../assets/img/operation-management.png"
     },
+    {
+      title:"Verbal Communication",
+      description:" Ability to articulate ideas clearly in meetings, presentations, and networking events.",
+    },
+    {
+      title:"Strategic Planning",
+      description:" Analyzing business environments and developing long-term goals.",
+    },
+    {
+      title:"Problem-Solving",
+      description:" Identifying issues, evaluating options, and implementing solutions.",
+    },
+    
   ];
 
   return (
