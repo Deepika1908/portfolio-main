@@ -4,7 +4,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import "../styles/NavBar.css";
 
 const NavBar = () => {
-  const location = useLocation(); // Use useLocation to get the current pathname
+  const location = useLocation(); 
 
   return (
     <Navbar expand="lg" className="navbar-custom">

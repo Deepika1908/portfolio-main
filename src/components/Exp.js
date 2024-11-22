@@ -1,5 +1,4 @@
 import React from 'react';
-// import '../styles/Exp.css';
 import internImage from '../assets/img/intern.jpg';
 
 const Exp = () => {
@@ -15,13 +14,11 @@ const Exp = () => {
       ],
       image: internImage 
     },
-    // Add more experiences here
   ];
 
   return (
     
     <div>
-      {/* <h2 className='txt'>Experience</h2> */}
       <section className="experience">
       <br/>
       <div className="exp">

@@ -1,8 +1,7 @@
-/* Navbar Container */
 .navbar {
     display: flex;
-    justify-content: space-between; /* Space between logo and links */
-    align-items: center; /* Align items vertically */
+    justify-content: space-between; 
+    align-items: center; 
     padding: 20px 40px;
     background-color: transparent;
     position: fixed;
@@ -13,7 +12,7 @@
   }
   
   .navbar.scrolled {
-    background-color: #121212; /* Dark background after scroll */
+    background-color: #121212; 
   }
   
   /* Logo */
@@ -34,7 +33,7 @@
   
   /* Individual Links */
   .nav-links li {
-    margin-left: 20px; /* Space between links */
+    margin-left: 20px;
   }
   
   .nav-link {
